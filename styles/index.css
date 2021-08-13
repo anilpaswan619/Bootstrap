@@ -1,0 +1,13 @@
+.my-class{
+    background-color:cornflowerblue;
+    color:white;
+    height: 500px;
+}
+.widthclass {
+   background-color:cadetblue;
+   height: 60px;
+}
+.myrow {
+    height: 300px;
+    background-color:coral;
+}
